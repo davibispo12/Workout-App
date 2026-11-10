@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423484766904",
+    "project_id": "app-academia-estudo",
+    "storage_bucket": "app-academia-estudo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423484766904:android:e66bf70c0ec50636dd124d",
+        "android_client_info": {
+          "package_name": "com.example.app_academia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423484766904-mnba4dqq9g0aivim5tbf9rhi7n7p46gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTGnnMJXcIK36hmDuYgCsaV_IXtDDuwyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423484766904-mnba4dqq9g0aivim5tbf9rhi7n7p46gd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
